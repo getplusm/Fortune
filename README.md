@@ -1,2 +1,2 @@
 # Fortune
-Light casino games in a graphical interface
+Light casino games in a GUI
