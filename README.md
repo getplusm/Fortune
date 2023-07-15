@@ -1,2 +1,2 @@
 # Fortune
-Fortune - simple GUI game with randomize slots with rewards!
+Light casino games in a graphical interface
